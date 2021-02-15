@@ -1,0 +1,49 @@
+ros-noetic-led-msgs (0.0.9-1focal) focal; urgency=high
+
+  * Version bump
+
+ -- Oleg Kalachev <okalachev@gmail.com>  Wed, 27 Jan 2021 21:00:00 -0000
+
+ros-noetic-led-msgs (0.0.8-1focal) focal; urgency=high
+
+  * Version bump
+
+ -- Oleg Kalachev <okalachev@gmail.com>  Wed, 27 Jan 2021 21:00:00 -0000
+
+ros-noetic-led-msgs (0.0.7-1focal) focal; urgency=high
+
+  * Version bump
+
+ -- Oleg Kalachev <okalachev@gmail.com>  Thu, 10 Sep 2020 21:00:00 -0000
+
+ros-noetic-led-msgs (0.0.6-1focal) focal; urgency=high
+
+  * Version bump
+
+ -- Oleg Kalachev <okalachev@gmail.com>  Tue, 04 Feb 2020 21:00:00 -0000
+
+ros-noetic-led-msgs (0.0.5-1focal) focal; urgency=high
+
+  * Version bump
+
+ -- Oleg Kalachev <okalachev@gmail.com>  Wed, 13 Nov 2019 21:00:00 -0000
+
+ros-noetic-led-msgs (0.0.4-1focal) focal; urgency=high
+
+  * Version bump
+
+ -- Oleg Kalachev <okalachev@gmail.com>  Wed, 28 Aug 2019 21:00:00 -0000
+
+ros-noetic-led-msgs (0.0.3-1focal) focal; urgency=high
+
+  * Version bump
+
+ -- Oleg Kalachev <okalachev@gmail.com>  Wed, 28 Aug 2019 21:00:00 -0000
+
+ros-noetic-led-msgs (0.0.2-1focal) focal; urgency=high
+
+  * Initial release
+
+ -- Oleg Kalachev <okalachev@gmail.com>  Tue, 27 Aug 2019 21:00:00 -0000
+
+
