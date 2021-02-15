@@ -1,0 +1,50 @@
+ros-melodic-ws281x (0.0.9-1bionic) bionic; urgency=high
+
+  * Restore lost rpi_ws281x library files
+
+ -- sfalexrog <sfalexrog@gmail.com>  Wed, 27 Jan 2021 21:00:00 -0000
+
+ros-melodic-ws281x (0.0.8-1bionic) bionic; urgency=high
+
+  * Update native library
+
+ -- sfalexrog <sfalexrog@gmail.com>  Wed, 27 Jan 2021 21:00:00 -0000
+
+ros-melodic-ws281x (0.0.7-1bionic) bionic; urgency=high
+
+  * Update native library
+  * Fix 64-bit checks
+
+ -- sfalexrog <sfalexrog@gmail.com>  Thu, 10 Sep 2020 21:00:00 -0000
+
+ros-melodic-ws281x (0.0.6-1bionic) bionic; urgency=high
+
+  * Update native library
+
+ -- sfalexrog <sfalexrog@gmail.com>  Tue, 04 Feb 2020 21:00:00 -0000
+
+ros-melodic-ws281x (0.0.5-1bionic) bionic; urgency=high
+
+  * Shut LED strip down on TERM signal
+
+ -- sfalexrog <sfalexrog@gmail.com>  Wed, 13 Nov 2019 21:00:00 -0000
+
+ros-melodic-ws281x (0.0.4-1bionic) bionic; urgency=high
+
+  * Prevent CMake from stripping rpath
+
+ -- sfalexrog <sfalexrog@gmail.com>  Wed, 28 Aug 2019 21:00:00 -0000
+
+ros-melodic-ws281x (0.0.3-1bionic) bionic; urgency=high
+
+  * Generate postinst script
+
+ -- sfalexrog <sfalexrog@gmail.com>  Wed, 28 Aug 2019 21:00:00 -0000
+
+ros-melodic-ws281x (0.0.2-1bionic) bionic; urgency=high
+
+  * Initial release
+
+ -- sfalexrog <sfalexrog@gmail.com>  Tue, 27 Aug 2019 21:00:00 -0000
+
+
