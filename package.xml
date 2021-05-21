@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <package format="2">
   <name>ws281x</name>
-  <version>0.0.9</version>
+  <version>0.0.11</version>
   <description>ROS node for rpi_ws281x LED strip driver</description>
-  <maintainer email="sfalexrog@gmail.com">sfalexrog</maintainer>
   <maintainer email="okalachev@gmail.com">Oleg Kalachev</maintainer>
   <license>MIT</license>
+  <license>BSD</license>
 
   <url type="website">https://github.com/CopterExpress/ros_led</url>
 
-  <!-- <author email="jane.doe@example.com">Jane Doe</author> -->
-
+  <author email="sfalexrog@gmail.com">Alexey Rogachevskiy</author>
+  <author email="okalachev@gmail.com">Oleg Kalachev</author>
 
   <!-- The *depend tags are used to specify dependencies -->
   <!-- Dependencies can be catkin packages or system dependencies -->
@@ -33,6 +33,7 @@
   <!-- Use doc_depend for packages you need only for building documentation: -->
   <!--   <doc_depend>doxygen</doc_depend> -->
   <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>ros_environment</build_depend>
   <build_depend>roscpp</build_depend>
   <build_export_depend>roscpp</build_export_depend>
   <exec_depend>roscpp</exec_depend>
