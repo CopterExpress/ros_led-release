@@ -1,0 +1,12 @@
+Source: ros-noetic-led-msgs
+Section: misc
+Priority: optional
+Maintainer: Oleg Kalachev <okalachev@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-noetic-catkin, ros-noetic-message-generation, ros-noetic-std-msgs
+Homepage: https://github.com/CopterExpress/ros_led
+Standards-Version: 3.9.2
+
+Package: ros-noetic-led-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-noetic-message-runtime, ros-noetic-std-msgs
+Description: Messages for LEDs and LED strips
