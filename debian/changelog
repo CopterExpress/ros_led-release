@@ -1,0 +1,61 @@
+ros-melodic-led-msgs (0.0.11-1bionic) bionic; urgency=high
+
+  * Version bump
+
+ -- Oleg Kalachev <okalachev@gmail.com>  Fri, 21 May 2021 07:00:00 -0000
+
+ros-melodic-led-msgs (0.0.10-1bionic) bionic; urgency=high
+
+  * Version bump
+
+ -- Oleg Kalachev <okalachev@gmail.com>  Fri, 02 Apr 2021 07:00:00 -0000
+
+ros-melodic-led-msgs (0.0.9-1bionic) bionic; urgency=high
+
+  * Version bump
+
+ -- Oleg Kalachev <okalachev@gmail.com>  Thu, 28 Jan 2021 08:00:00 -0000
+
+ros-melodic-led-msgs (0.0.8-1bionic) bionic; urgency=high
+
+  * Version bump
+
+ -- Oleg Kalachev <okalachev@gmail.com>  Thu, 28 Jan 2021 08:00:00 -0000
+
+ros-melodic-led-msgs (0.0.7-1bionic) bionic; urgency=high
+
+  * Version bump
+
+ -- Oleg Kalachev <okalachev@gmail.com>  Fri, 11 Sep 2020 07:00:00 -0000
+
+ros-melodic-led-msgs (0.0.6-1bionic) bionic; urgency=high
+
+  * Version bump
+
+ -- Oleg Kalachev <okalachev@gmail.com>  Wed, 05 Feb 2020 08:00:00 -0000
+
+ros-melodic-led-msgs (0.0.5-1bionic) bionic; urgency=high
+
+  * Version bump
+
+ -- Oleg Kalachev <okalachev@gmail.com>  Thu, 14 Nov 2019 08:00:00 -0000
+
+ros-melodic-led-msgs (0.0.4-1bionic) bionic; urgency=high
+
+  * Version bump
+
+ -- Oleg Kalachev <okalachev@gmail.com>  Thu, 29 Aug 2019 07:00:00 -0000
+
+ros-melodic-led-msgs (0.0.3-1bionic) bionic; urgency=high
+
+  * Version bump
+
+ -- Oleg Kalachev <okalachev@gmail.com>  Thu, 29 Aug 2019 07:00:00 -0000
+
+ros-melodic-led-msgs (0.0.2-1bionic) bionic; urgency=high
+
+  * Initial release
+
+ -- Oleg Kalachev <okalachev@gmail.com>  Wed, 28 Aug 2019 07:00:00 -0000
+
+
