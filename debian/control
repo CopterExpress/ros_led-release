@@ -1,0 +1,12 @@
+Source: ros-melodic-ws281x
+Section: misc
+Priority: optional
+Maintainer: Oleg Kalachev <okalachev@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-melodic-catkin, ros-melodic-led-msgs, ros-melodic-message-generation, ros-melodic-ros-environment, ros-melodic-roscpp
+Homepage: https://github.com/CopterExpress/ros_led
+Standards-Version: 3.9.2
+
+Package: ros-melodic-ws281x
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-melodic-led-msgs, ros-melodic-message-generation, ros-melodic-roscpp
+Description: ROS node for rpi_ws281x LED strip driver
