@@ -2,6 +2,14 @@
 Changelog for package ws281x
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.11 (2021-05-21)
+-------------------
+* Added ros_environment build dependency
+
+0.0.10 (2021-04-02)
+-------------------
+* Update native library
+
 0.0.9 (2021-01-28)
 ------------------
 * Restore lost rpi_ws281x library files
